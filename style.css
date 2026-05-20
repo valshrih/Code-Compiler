@@ -246,6 +246,7 @@ textarea {
 }
 .result-output-panel{
     padding: 10px 14px; 
+    overflow-y: auto;
 }
 
 /* Updated console output layout configuration */
